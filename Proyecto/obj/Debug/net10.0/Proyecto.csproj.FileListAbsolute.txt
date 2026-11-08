@@ -1,0 +1,15 @@
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.AssemblyInfo.cs
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.sourcelink.json
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\bin\Debug\net10.0\Proyecto.exe
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\bin\Debug\net10.0\Proyecto.deps.json
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\bin\Debug\net10.0\Proyecto.runtimeconfig.json
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\bin\Debug\net10.0\Proyecto.dll
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\bin\Debug\net10.0\Proyecto.pdb
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.dll
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\refint\Proyecto.dll
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.pdb
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\Proyecto.genruntimeconfig.cache
+C:\Users\ferna\Desktop\SO1\Sistema de Semaforo\proyecto\obj\Debug\net10.0\ref\Proyecto.dll
