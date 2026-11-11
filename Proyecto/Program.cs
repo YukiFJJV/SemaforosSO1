@@ -2,6 +2,12 @@
 using System.Threading.Tasks;
 using Proyecto;
 
+// * ======= Integrantes del grupo ============================================================
+// * Jafet Fernando Jimenez Valladares 20241031469
+// * Luis Felipe Suazo Martínez 20241002179
+// * Jose Mario Antunez Trejo 20211024229
+// *Elian Alberto Posadas Barahona 20181032112
+// * ==========================================================================================
 class Program
 {
     static async Task Main()
